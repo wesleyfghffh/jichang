@@ -5,4 +5,4 @@ jichang
 
 | 机场名     | 地址                                                           | 年付最低（元/流量）               | 速度            |
 | ---------- | ------------------------------------------------------------ |  --------------------------------- | --------------- |
-| ezyun      | https://dash.eyun.org/#/register?code=qeHAMMQV | 0元白嫖直连机场套餐                                                               | 不错            
+| ezyun      | https://dash.eyun.org/#/register?code=qeHAMMQV | 16元                                                               | 不错            
